@@ -53,6 +53,7 @@ public class Tide {
 		
 		driver.findElement(By.xpath("//span[@class='ps-lightbox-close']")).click();
 		
+		
 	}
 
 }
